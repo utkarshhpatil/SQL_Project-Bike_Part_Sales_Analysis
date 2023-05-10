@@ -217,8 +217,6 @@ Specifically, it is calculating the minimum, maximum, average, 25th percentile, 
 The results are then grouped and ordered by month. 
 This analysis provides insights into the central tendency, variability, and range of the "total" column for each month.
 
-Based on the output provided, here are some observations:
-
 The "minimum" column shows the lowest total for each month, and it ranges from 10.35 to 10.92.
 The "maximum" column shows the highest total for each month, and it ranges from 1827.04 to 2546.33.
 The "average total" column shows the average value of the "total" column for each month, and it ranges from 271.15 to 316.23.
